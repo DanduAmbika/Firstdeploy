@@ -1,0 +1,1292 @@
+.B { 
+    background-image: url(./images/img\ 1.jpeg);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.B h1  {
+    font-size: 44px;
+}
+.B p {
+    margin-top: 17px;
+    text-align: justify;
+}
+.B button {
+    color: white;
+    background-color: orangered;
+    border: none;
+    padding: 10px;
+} 
+.B {
+    padding: 60px 0px;
+}
+a {   
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+ ul { 
+    text-decoration: none;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around; 
+}
+.logo img { 
+    width: 15%;
+}
+ .A h1 { 
+    font-size: 20px;
+} 
+  .nav-item a {
+    color: black !important;
+  } 
+
+.C {
+    position: relative;
+  }
+ .fit  i {   
+    padding: 10px;
+}
+a {
+    font-weight: bold !important;
+}
+.D img {
+    width: 50%;
+    height: 484px;
+}
+.D {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.section {
+    position: relative;
+}
+.Mal {
+    background-color: lightgray;
+    width: 742px;
+}
+.k img {
+    width: 80%;
+    height: 311px;
+}
+.k {
+    position: absolute;
+    top: 71px;
+}
+ .N p {
+    margin-top: 11px;
+    text-align: justify;
+    font-size: 15px;
+}
+.G h1 {
+    font-size: 29px;
+    text-align: center;
+}
+ .G button { 
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 6px;
+}
+.Thanks { 
+    background-image: url(./images/img\ 1.jpeg);
+    color: white;
+    background-position: center;
+    background-size: cover;
+    padding: 60px 0px;
+}
+.Thanks h1{
+    text-align: center;
+}
+.Thanks h4 {
+    text-align: center;
+}
+.Thanks p {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.last {
+    text-align: center;
+    background-color: gray;
+    margin-top: 19px;
+    color: white;
+}
+input[type="text"] {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid black;
+    margin-left: 27px;
+    width: 425px;
+}
+input[type="content"] {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid black;
+    margin-left: 11px;
+    width: 419px;
+    padding-bottom: 47px;
+}
+.last h6 {
+    font-weight: normal;
+    font-size: 15px;
+}
+.last p {
+    margin-bottom: 7px;
+    font-size: 20px;
+}
+.icon {
+    display: flex;
+}
+.iconbox i { 
+    background-color: orangered;
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+.iconbox {
+    margin-right: 20px;
+    margin-top: 30px;
+}
+.icon p {
+    padding: 20px;
+}
+.E button {
+    background-color: aqua;
+    color: black;
+    border: none;
+    padding: 6px;
+    margin-left: 170px;
+}
+.pull h4 {  
+    padding: 18px;
+}
+.box h4 {
+    padding: 13px;
+}
+.send h4 {
+    padding: 20px;
+}
+.At {
+    background-color: beige;
+}
+.pic {
+    position: relative;
+}
+.image {
+    position: absolute;
+    top: 3px;
+    left: 720px;
+}
+.pic {
+    background-color: orangered;   
+}
+.image img {
+    width: 101%;
+    height: 90px;
+}
+ .phone { 
+    position: relative;
+}
+.s img {
+    position: absolute;
+    width: 28%;
+    top: 95px;
+    left: 96px;
+    height: 376px;
+}
+.form button {
+    background-color: orangered;
+    border: none;
+    color: black;
+}
+.H {
+    background-color: beige;
+    width: 300px;
+}
+.E {
+    padding: 60px 0px;
+}
+.At {
+    background-color: beige;
+    padding: 123px 183px;
+    text-align: center;
+}
+.T {
+    background-color: grey;
+    color: white;
+}
+.set {
+    text-align: center;
+}
+.k {
+    position: absolute;
+    left: 713px;
+    top: 128px;
+}
+.I h1 {
+    font-size: 35px;
+}
+.J h4 {
+    font-size: 21px;
+    margin: 2px;
+}
+.J p {
+    text-align: justify;
+    padding: 10px 59px;
+    margin: 5px;
+}
+.T h1 { 
+    margin-left: 30px;
+    font-size: 30px;
+}
+.T h4 {
+    margin-left: 33px;
+    font-size: 20px;
+}
+.At p { 
+    text-align: justify;
+    font-size: 12px;
+}
+.At button {
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+.F {
+    padding: 60px 0px;
+}
+.C {
+    background-color:pink;
+}
+.see button {
+    background-color: orangered;
+    border: none;
+    padding: 5px;
+}
+.phone {
+    padding: 60px 0px;
+}
+.Thanks {
+    padding: 60px 0px;
+}
+.H {
+    padding: 22px;
+}
+.H h4 {
+    margin: 2px;
+    font-size: 22px;
+}
+.H i { 
+    background-color: white;
+    padding: 10px;
+    border-radius: 53px;
+}
+.E p {  
+    text-align: justify;
+}
+.I h1 {
+    font-size: 35px;
+    margin-left: 63px;
+}
+.J h4 {
+    font-size: 21px;
+    margin-left: 62px;
+}
+.T p {
+    margin-left: 32px;
+}
+.see {
+    text-align: center;
+}
+.see a {
+    border: 2px solid;
+    padding: 4px;
+    background-color: orangered;
+    color: white;
+}
+.watch h1 {
+    text-align: center;
+}
+.section{
+    padding: 60px 0px;
+}
+
+
+  @media only screen and (min-width:280px) and (max-width:480px)  
+{
+    .B {
+        background-image: url(./images/img\ 1.jpeg);
+        color: white;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 797px;
+    }
+    .B h1 {
+        font-size: 34px;
+        text-align: center;
+    }
+    .B button {
+        color: white;
+        background-color: orangered;
+        border: none;
+        padding: 10px;
+        margin-left: 308px;
+        font-size: 28px;
+    }
+    .D {
+        position: absolute;
+        top: 773px;
+        width: 797px;
+    }
+    .C {
+        background-color: pink;
+        width: 797px;
+        font-size: 24px;
+        padding: 30px;
+    }
+    .E h1 {
+        font-size: 36px;
+        text-align: center;
+        padding: 15px;
+    }
+    .G h1 {
+        font-size: 49px;
+        text-align: center;
+        margin-top: 390px;
+        margin-left: 186px;
+    }
+    .D img {
+        width: 100%;
+    }
+    .B p {
+        text-align: justify;
+        font-size: 26px;
+        margin: 30px;
+    }
+    .set button {
+        font-size: 24px;
+        padding: 11px;
+        background-color: orangered;
+        color: white;
+        border: none;
+    }
+    .pic {
+        width: 797px;
+    }
+    .see {
+        text-align: center;
+    }
+    .H {
+        background-color: beige;
+        width: 797px;
+        margin-top: 20px;
+    }
+    .H i {
+        background-color: white;
+        padding: 10px;
+        border-radius: 53px;
+        margin: 264px;
+        font-size: 52px;
+    }
+    .H h4 {
+        font-size: 35px;
+        margin-left: 259px;
+    }
+    .N p {
+        width: 797px;
+        font-size: 25px;
+        padding: 1px 45px;
+    }
+    .Mal {
+        background-color: lightgray;
+        width: 797px;
+        font-size: 22px;
+    }
+    .T {
+        background-color: grey;
+        padding: 20px 40px;
+        color: white;
+        width: 797px;
+        text-align: justify;
+        font-size: 20px;
+    }
+    .last {
+        text-align: center;
+        background-color: gray;
+        margin-top: 19px;
+        color: white;
+        width: 797px;
+    }
+    .Thanks {
+        background-image: url(./images/img\ 1.jpeg);
+        color: white;
+        background-position: center;
+        background-size: cover;
+        width: 797px;
+    }
+    .s img {
+        position: absolute;
+        width: 286%;
+        top: 734px;
+        left: 10px;
+        height: 650px;
+    }
+    .iconbox i {
+        background-color: orangered;
+        height: 30px;
+        width: 30px;
+        padding: 10px;
+        border-radius: 52px;
+        color: white;
+        font-size: 58px;
+    }
+    .icon p {
+        padding: 20px;
+        font-size: 36px;
+    }
+    .send h4 {
+        padding: 20px;
+        font-size: 49px;
+    }
+    .form {
+        font-size: 38px;
+    }
+    input[type="text"] {
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: 1px solid black;
+        margin-left: 27px;
+        width: 541px;
+    }
+    input[type="content"] { 
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: 1px solid black;
+        width: 556px;
+        padding-bottom: 47px;
+        margin-left: 20px;
+    }
+    .form button {
+        background-color: orangered;
+        border: none;
+        color: black;
+        font-size: 29px;
+        padding: 11px;
+    }
+    .last p {
+        margin-bottom: 7px;
+        font-size: 30px;
+    }
+    .last h6 {
+        font-weight: normal;
+        font-size: 31px;
+    }
+    .All1 img {
+        margin-top: 570px;
+        width: 797px;
+    }
+    .All2 img {
+        width: 797px;
+        margin-top: -8px;
+    }
+    .All3 img {
+        width: 797px;
+        margin-top: -8px;
+    }
+    .All4 img {
+        width: 797px;
+        margin-top: -8px;
+    }
+    .navbar-toggler i {
+        font-size: 55px;
+        color: black;
+    }
+    .At {
+        background-color: beige;
+        padding: 123px 183px;
+        text-align: center;
+        width: 797px;
+    }
+    .At h1 {
+        font-size: 55px;
+    }
+    .At h6 {
+        font-size: 27px;
+    }
+    .At p {
+        text-align: justify;
+        font-size: 25px;
+    }
+    .At button {
+        background-color: orangered;
+        color: white;
+        border: none;
+        padding: 13px;
+        font-size: 22px;
+    }
+    .navbar-toggler i {
+        font-size: 29px;
+        color: black;
+        margin-left: 556px;
+    }
+    .image {
+        position: absolute;
+        top: 0px;
+        left: 394px;
+    }
+    .All1 p {
+        font-size: 39px;
+        margin-left: 83px;
+        margin-right: -529px;
+    }
+    .All2 p {
+        font-size: 39px;
+        margin-left: 83px;
+        margin-right: -529px;
+    }
+    .All3 p {
+        font-size: 39px;
+        margin-left: 83px;
+        margin-right: -529px;
+    }
+    .All4 p {
+        font-size: 39px;
+        margin-left: 83px;
+        margin-right: -529px;
+    }
+    .E button {
+        background-color: aqua;
+        color: black;
+        border: none;
+        padding: 14px;
+        margin-left: 239px;
+        font-size: 31px;
+    }
+    .image {
+        position: absolute;
+        top: -4px;
+        left: 394px;
+    }
+    .All1 h4 {
+        font-size: 51px;
+        margin-left: 81px;
+        margin-right: -422px;
+    }
+    .All2 h4 {
+        font-size: 51px;
+        margin-left: 81px;
+        margin-right: -422px;
+    }
+    .All3 h4 {
+        font-size: 51px;
+        margin-left: 81px;
+        margin-right: -422px;
+    }
+    .All4 h4 {
+        font-size: 51px;
+        margin-left: 81px;
+        margin-right: -422px;
+    }
+    .image img {
+        width: 57%;
+        height: 90px;
+        margin-left: 79px;
+    }
+    
+ }
+@media only screen and (min-width:480px) and (max-width:575.98px) 
+{
+.B {
+    background-image: url(./images/img\ 1.jpeg);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1115px;
+}
+.B h1 {
+    font-size: 59px;
+    text-align: center;
+}
+.B p {
+    text-align: justify;
+    font-size: 34px;
+    margin: 30px;
+}
+.C {
+    background-color: pink;
+    width: 1116px;
+    font-size: 24px;
+    padding: 11px 61px;
+}
+.E h1 {
+    font-size: 65px;
+    text-align: center;
+    padding: 15px;
+}
+.E p {
+    text-align: justify;
+    font-size: 33px;
+}
+.D img {
+    width: 146%;
+    height: 510px;
+}
+.H {
+    background-color: beige;
+    width: 1110px;
+}
+.H i {
+    background-color: white;
+    padding: 10px;
+    border-radius: 53px;
+    margin: 496px;
+    font-size: 52px;
+}
+.N p {
+    width: 1089px;
+    font-size: 30px;
+    padding: 1px 45px;
+}
+.Mal {
+    background-color: lightgray;
+    width: 1120px;
+    font-size: 30px;
+}
+.I h1 {
+    padding: 4px 54px;
+    font-size: 42px;
+}
+.J h4 {
+    font-size: 32px;
+    padding: 0px 63px;
+    margin: 2px;
+}
+.T {
+    background-color: grey;
+    padding: 20px 40px;
+    color: white;
+    width: 1109px;
+    text-align: justify;
+    font-size: 25px;
+}
+.T h4 {
+    font-size: 31px;
+    margin: 31px;
+}
+.T h1 {
+    margin-left: 30px;
+    font-size: 38px;
+}
+.s img {
+    position: absolute;
+    width: 238%;
+    top: 904px;
+    left: 0px;
+    height: 650px;
+}
+.All1 img {
+    width: 632px;
+    margin: 200px;
+    margin-top: 479px;
+}
+.All2 img {
+    width: 632px;
+    margin-top: -14px;
+    margin-left: 245px;
+}
+.All3 img {
+    width: 632px;
+    margin: 200px;
+    margin-top: -24px;
+}
+.All4 img {
+    width: 632px;
+    margin: 200px;
+    margin-top: -25px;
+}
+.D {
+    position: absolute;
+    top: 917px;
+}
+.E button {
+    background-color: aqua;
+    color: black;
+    border: none;
+    padding: 6px;
+    margin-left: 361px;
+    font-size: 33px;
+}
+.pic {
+    width: 1138px;
+}
+.image img {
+    width: 99%;
+    height: 92px;
+}
+.G h1 {
+    font-size: 49px;
+    text-align: center;
+    margin-top: 390px;
+    margin-left: 474px;
+}
+.At {
+    background-color: beige;
+    padding: 123px 183px;
+    text-align: center;
+    width: 1131px;
+}
+.image {
+    position: absolute;
+    top: 0px;
+    left: 642px;
+}
+.All1 h4 {
+    margin-top: -246px;
+    font-size: 46px;
+    margin-left: 309px;
+    margin-right: -320px;
+}
+.All2 h4 {
+    margin-top: -102px;
+    font-size: 46px;
+    margin-left: 309px;
+    margin-right: -320px;
+}
+.All3 h4 {
+    margin-top: -264px;
+    font-size: 46px;
+    margin-left: 309px;
+    margin-right: -320px;
+}
+.All4 h4 {
+    margin-top: -270px;
+    font-size: 46px;
+    margin-left: 309px;
+    margin-right: -320px;
+}
+.At p {
+    text-align: justify;
+    font-size: 34px;
+}
+.At button {
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 11px;
+    font-size: 26px;
+}
+.Thanks {
+    background-image: url(./images/img\ 1.jpeg);
+    color: white;
+    background-position: center;
+    background-size: cover;
+    width: 1143px;
+    margin-top: -57px;
+}
+.send h4 {
+    padding: 20px;
+    font-size: 52px;
+    margin-left: 31px;
+    margin-right: -148px;
+}
+.Thanks p {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.Thanks h1 {
+    text-align: center;
+    font-size: 53px;
+}
+.Thanks h4 {
+    text-align: center;
+    font-size: 43px;
+}
+.last {
+    text-align: center;
+    background-color: gray;
+    margin-top: 19px;
+    color: white;
+    width: 1146px;
+}
+.last p {
+    margin-bottom: 7px;
+    font-size: 43px;
+}
+.form {
+    font-size: 60px;
+}
+input[type="text"] {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid black;
+    margin-left: 27px;
+    width: 1034px;
+}
+.icon p {
+    padding: 20px;
+    font-size: 45px;
+    margin-left: 4px;
+}
+.iconbox i {
+    background-color: orangered;
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+    border-radius: 287px;
+    color: white;
+    font-size: 81px;
+    margin-left: 152px;
+}
+input[type="content"] {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid black;
+    width: 1041px;
+    padding-bottom: 47px;
+    margin-left: 20px;
+}
+.navbar-toggler i {
+    font-size: 40px;
+    color: black;
+    margin-left: 700px;
+}
+}
+@media only screen and (min-width:576px) and (max-width:767.98px)
+{ 
+    .B {
+        background-image: url(./images/img\ 1.jpeg);
+        color: white;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 766px;
+    }
+    .B h1 {
+        font-size: 36px;
+        text-align: center;
+    }
+    .B button {
+        color: white;
+        background-color: orangered;
+        border: none;
+        padding: 10px;
+        margin-left: 210px;
+    }
+    .C {
+        background-color: pink;
+        width: 766px;
+    }
+    .G h1 {
+        font-size: 29px;
+        text-align: center;
+        margin-top: 244px;
+    }
+    .D {
+        position: absolute;
+        left: 0px;
+        top: 533px;
+    }
+    .D img {
+        width: 175%;
+        height: 291px;
+    }
+    .H {
+        background-color: beige;
+        width: 766px;
+        margin-top: 0px;
+        margin-left: -31px;
+    }
+    .H h4 {
+        margin: 2px;
+        font-size: 26px;
+        text-align: center;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .H i {
+        background-color: white;
+        padding: 10px;
+        border-radius: 53px;
+        margin-left: 343px;
+        font-size: 23px;
+    }
+    .s img {
+        position: absolute;
+        width: 102%;
+        top: 509px;
+        left: -1px;
+    }
+    .Mal {
+        background-color: lightgray;
+        width: 766px;
+        margin-left: -12px;
+        margin-top: -113px;
+    }
+    .image {
+        position: absolute;
+        top: -4px;
+        left: 279px;
+    }
+    .watch h1 {
+        text-align: center;
+        margin-left: -179px;
+        margin-top: -45px;
+    }
+    .phone {
+        position: relative;
+        margin-top: -56px;
+        width: 766px;
+        margin-left: -13px;
+    } 
+    .All1 img {
+        width: 766px;
+        margin-top: 250px;
+    }
+    .All2 img {
+        width: 766px;
+        margin-top: -19px;
+    }
+    .All3 img {
+        width: 766px;
+        margin-top: -13px;
+    }
+    .All4 img {
+        width: 766px;
+        margin-top: -19px;
+    }
+    .All2 h4 {
+        font-size: 42px;
+        margin-top: -78px;
+        margin-left: 136px;
+    }
+    .All1 h4 {
+        font-size: 42px;
+        margin-top: -78px;
+        margin-left: 136px;
+    }
+    .All1 p {
+        font-size: 20px;
+        margin-top: 10px
+    }
+    .All3 h4 {
+        font-size: 42px;
+        margin-top: -78px;
+        margin-left: 136px;
+    }
+    .All1 p {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-left: 19px;
+        margin-right: -327px;
+    }
+    .All2 p {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-left: 19px;
+        margin-right: -327px;
+    }
+    .All3 p {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-left: 19px;
+        margin-right: -327px;
+    }
+    .All4 p {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-left: 19px;
+        margin-right: -327px;
+    }
+    .All4 h4 {
+        font-size: 42px;
+        margin-top: -78px;
+        margin-left: 136px;
+    }
+    .N p {
+        margin-top: 11px;
+        text-align: justify;
+        font-size: 19px;
+        margin-left: 20px;
+        margin-right: -216px;
+    }
+    .pic {
+        background-color: orangered;
+        width: 766px;
+    }
+    .image img {
+        width: 73%;
+        height: 90px;
+        margin-left: 96px;
+    }
+    .T {
+        background-color: grey;
+        color: white;
+        width: 766px;
+    }
+    .Thanks {
+        background-image: url(./images/img\ 1.jpeg);
+        color: white;
+        background-position: center;
+        background-size: cover;
+        width: 890px;
+    }
+    .At {
+        background-color: beige;
+        padding: 123px 183px;
+        text-align: center;
+        width: 890px;
+    }
+    .send h4 {
+        padding: 20px;
+        font-size: 40px;
+    }
+    .At h6 {
+        font-size: 34px;
+    }
+    .At h1 {
+        font-size: 40px;
+    }
+    .At p {
+        text-align: justify;
+        font-size: 24px;
+    }
+    .Thanks p {
+        text-align: justify;
+        margin-top: 10px;
+        font-size: 22px;
+    }
+    .Thanks h1 {
+        text-align: center;
+        font-size: 53px;
+    }
+    .Thanks h4 {
+        text-align: center;
+        font-size: 35px;
+    }
+    .At button {
+        background-color: orangered;
+        color: white;
+        border: none;
+        padding: 14px;
+        font-size: 20px;
+    }
+    .iconbox i {
+        background-color: orangered;
+        height: 30px;
+        width: 30px;
+        padding: 10px;
+        border-radius: 111px;
+        color: white;
+        font-size: 62px;
+    }
+    .icon p {
+        padding: 20px;
+        margin-left: 20px;
+        font-size: 40px;
+    }
+    .form {
+        font-size: 48px;
+    }
+    input[type="text"] {
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: 1px solid black;
+        margin-left: 134px;
+        width: 660px;
+    }
+    input[type="content"] {
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: 1px solid black;
+        margin-left: 135px;
+        width: 669px;
+        padding-bottom: 47px;
+    }
+    .last {
+        text-align: center;
+        background-color: gray;
+        margin-top: 19px;
+        color: white;
+        width: 900px;
+    }
+    .last p {
+        margin-bottom: 7px;
+        font-size: 36px;
+    }
+    .last h6 {
+        font-weight: normal;
+        font-size: 35px;
+    }
+    .navbar-toggler i {
+        font-size: 40px;
+        color: black;
+        margin-left: 120px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991.98px)
+{
+    .B {
+        background-image: url(./images/img\ 1.jpeg);
+        color: white;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 768px;
+    }
+    .B h1 {
+        font-size: 38px;
+        text-align: center;
+    }
+    .B button {
+        color: white;
+        background-color: orangered;
+        border: none;
+        padding: 10px;
+        margin-left: 304px;
+    }
+    .D img {
+        width: 32%;
+        height: 564px;
+    }
+    .N p {
+        margin-top: 20px;
+        text-align: justify;
+        font-size: 19px;
+        margin-left: -234px;
+    }
+    .H {
+        background-color: beige;
+        width: 172px;
+        margin-top: -50px;
+    }
+    .G h1 {
+        font-size: 29px;
+        text-align: center;
+        margin-top: -43px;
+    }
+    .Mal {
+        background-color: lightgray;
+        width: 546px;
+        margin-top: -121px;
+    }
+    .k img {
+        width: 378%;
+        height: 609px;
+        margin-left: -155px;
+        margin-top: -189px;
+    }
+    .pic {
+        background-color: orangered;
+        width: 768px;
+        margin-top: -43px;
+    }
+    .image {
+        position: absolute;
+        top: -6px;
+        left: 412px;
+        }
+    .watch h1 {
+        text-align: center;
+        margin-left: -105px;
+    }
+    .T {
+        background-color: grey;
+        color: white;
+        width: 510px;
+        margin-top: -55px;
+    }
+    .T p {
+        margin-left: 34px;
+        text-align: justify;
+        margin-right: 33px;
+    }
+    .s img {
+        position: absolute;
+        width: 32%;
+        top: 5px;
+        left: 522px;
+        height: 544px;
+    }
+    .At {
+        background-color: beige;
+        padding: 123px 183px;
+        text-align: center;
+        width: 756px;
+    }
+    .At p {
+        text-align: justify;
+        font-size: 17px;
+    }
+    .send h4 {
+        padding: 20px;
+        font-size: 25px;
+    }
+    .navbar-toggler i {
+        font-size: 40px;
+        color: black;
+        margin-left: 120px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199.98px)
+{
+    .B {
+        background-image: url(./images/img\ 1.jpeg);
+        color: white;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 1075px;
+    }
+    .B h1 {
+        font-size: 35px;
+    }
+    .C {
+        background-color: pink;
+        width: 1076px;
+    }
+    .D img {
+        width: 47%;
+        height: 502px;
+    }
+    .H {
+        background-color: beige;
+        width: 302px;
+    }
+    .N p {
+        margin-top: 11px;
+        text-align: justify;
+        font-size: 14px;
+    }
+    .Mal {
+        background-color: lightgray;
+        width: 742px;
+        margin-top: -113px;
+    }
+    .k {
+        position: absolute;
+        left: 713px;
+        top: 31px;
+    }
+    .pic {
+        background-color: orangered;
+        width: 991px;
+    }
+}
+
